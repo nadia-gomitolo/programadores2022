@@ -1,2 +1,2 @@
-# programadores2022
-Ejemplos de cursadas
+# programacion2022
+proyecto #1
